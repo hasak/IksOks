@@ -1,8 +1,6 @@
 # IksOks
 
-## Overview
-
-This is a console-based Tic-Tac-Toe game written in C++. It supports:
+A console-based Tic-Tac-Toe game written in C++. It supports:
 
 * **Single-player mode:** Play against the computer with a simple AI.
 * **Two-player mode:** Play against another human player.
